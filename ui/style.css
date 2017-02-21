@@ -6,7 +6,8 @@ body {
 
 .center {
     text-align: center;
-    color:red;
+    color:rgb(120,50,50);
+    background:rgb(0,0,0);
 }
 
 .text-big {
